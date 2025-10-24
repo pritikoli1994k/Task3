@@ -1,0 +1,6 @@
+# Ignore system & build files
+node_modules/
+.env
+__pycache__/
+*.log
+.vscode/
